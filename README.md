@@ -22,11 +22,6 @@
 	
  ```
 
-## Skills
-- 👨‍💻 Python, Django
-- ⚙️ React
-- 👁️ SASS, CSS, Stylus
-- 💽 MySQL, SQL, Mongo
 
 
 - Languages - Python
