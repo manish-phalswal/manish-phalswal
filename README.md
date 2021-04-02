@@ -20,3 +20,7 @@ I'm Marton, a 17 years old web developer from Hungary.
 - [@martonlederer](https://twitter.com/martonlederer) on Twitter
 - [@martonlederer](https://twitter.com/instagram) on Instagram
 - [Marton#6513](./) on Discord
+
+<p  align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+</p>
