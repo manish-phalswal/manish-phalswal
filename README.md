@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg />
+  <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
 
 ## Hey! 👋
