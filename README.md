@@ -23,7 +23,7 @@
  ```
 
 
-
+## Skills! 👋
 - Languages - Python
 - Web Technologies - XML, HTML
 - Database - PostgreSQL, OracleSQL, PL SQL
