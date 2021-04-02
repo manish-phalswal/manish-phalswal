@@ -22,5 +22,5 @@ I'm Marton, a 17 years old web developer from Hungary.
 - [Marton#6513](./) on Discord
 
 <p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=matyo91.matyo91" alt="visitor badge"/>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=manish-phalswal.353990664" alt="visitor badge"/>
 </p>
