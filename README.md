@@ -34,7 +34,7 @@
 - Others - ERP, CRM, DMS
 
 ## Other Stuff
-  - :octocat: [My Resume](shorturl.at/egxBO)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1MwEN2cKWoLg_AkOzA7G2Pd0dBISkxhiK/view?usp=sharing)
 
 ## Contact
 - [![Linkedin Badge](https://img.shields.io/badge/-manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish001/)](https://www.linkedin.com/in/manish001/) 
