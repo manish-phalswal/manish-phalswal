@@ -28,6 +28,16 @@
 - 👁️ SASS, CSS, Stylus
 - 💽 MySQL, SQL, Mongo
 
+
+- Languages - Python
+- Web Technologies - XML, HTML
+- Database - PostgreSQL, OracleSQL, PL SQL
+- Framework - Tryton open-source ERP
+- Code maintenance Tool- GIT
+- Operating System - Windows, Linux(Ubuntu)
+- IDE - Visual Studio Code
+- Others - ERP, CRM, DMS
+
 ## Other Stuff
   - :octocat: [My Resume](shorturl.at/egxBO)
 
