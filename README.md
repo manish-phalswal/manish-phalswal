@@ -2,12 +2,27 @@
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
 
-## Hey! 👋
-I'm Marton, a 17 years old web developer from Hungary.
+[![Linkedin Badge](https://img.shields.io/badge/-manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish001/)](https://www.linkedin.com/in/manish001/) 
 
-- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
-
-- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
+## Hello World! 👋
+```python
+ class WhoAmI:
+ 	user = 'Manish Kumar'
+	current_workspace = 'Python Developer @ AIIMS, New Delhi'
+  
+	hobbies = [
+		'Being up all Night chasing that ONE BUG...'
+		]
+	
+	def getCity():
+		return Delhi()
+	
+	def Ambitions():
+		FullStackDeveloper()
+		CreateSkyNet()
+		# Assume 10 more awesome ambitions here  ;)
+	
+ ```
 
 ## Skills
 - 👨‍💻 Python, Django
