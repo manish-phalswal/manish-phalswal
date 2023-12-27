@@ -3,9 +3,6 @@
 </h1>
 <!-- Header Section -->
 <h1 align="center"><span style="color:#3498DB;">Manish Kumar</span></h1>
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Manish Kumar" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
-</p>
 
 <!-- Contact Section -->
 <h2><span style="color:#3498DB;">📞 Contact</span></h2>
