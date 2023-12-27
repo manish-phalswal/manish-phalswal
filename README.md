@@ -2,50 +2,55 @@
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
 <!-- Header Section -->
-# <span style="color:#2C3E50;">Manish Kumar</span> 🚀 - Innovator in the Digital Realm
+<h1 align="center"><span style="color:#3498DB;">Manish Kumar</span></h1>
+<p align="center">
+  <img src="https://your-image-url.com/your-image.png" alt="Manish Kumar" width="200" style="border-radius: 50%; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);" />
+</p>
 
 <!-- Contact Section -->
-## <span style="color:#3498DB;">📞 Contact</span>
+<h2><span style="color:#3498DB;">📞 Contact</span></h2>
 
 - <span style="color:#3498DB;">**Phone:** +91-8059975933</span>
 - <span style="color:#3498DB;">**Email:** [manishphalswal1995@gmail.com](mailto:manishphalswal1995@gmail.com)</span>
 - <span style="color:#3498DB;">**LinkedIn:** [linkedin.com/in/manish001](https://www.linkedin.com/in/manish001)</span>
 
 <!-- Professional Summary Section -->
-## <span style="color:#2C3E50;">💼 Professional Summary</span>
+<h2><span style="color:#3498DB;">💼 Professional Summary</span></h2>
 
-Greetings, tech enthusiasts! I'm Manish Kumar, a seasoned professional with over 5 years of expertise, specializing in Salesforce.com (SFDC), Vlocity/Omnistudio, and Industry CPQ development. Let's embark on a journey through the realms of innovation and technology.
+Experienced Salesforce.com (SFDC) and Vlocity developer with a passion for innovation and problem-solving. Over 5 years in the IT industry, specializing in Industry CPQ, Vlocity modules, and Salesforce customization.
 
 <!-- Technical Skills Section -->
-## <span style="color:#3498DB;">🔧 Technical Skills</span>
+<h2><span style="color:#3498DB;">🔧 Technical Skills</span></h2>
 
-- <span style="color:#3498DB;">**Salesforce:** Admin, Developer, Apex, Security Module, Reports and Dashboards, Workbench, Data Loader, VS Code, SOSL, SOQL, Triggers, Validations, Formula, Workflow, Approvals, Email Templates</span>
-- <span style="color:#3498DB;">**Vlocity:** DataRaptors, Integration Procedures, Omniscript, Vlocity Cards, Flex Cards, Document template designer, document generation, etc.</span>
-- <span style="color:#3498DB;">**Industries CPQ:** Enterprise Product Catalog (EPC), CPQ, Order Management, Orchestrations, Product Pricing, Vlocity Rules, Order Decomposition, etc.</span>
+- <span style="color:#3498DB;">**Salesforce:** Admin, Developer, Apex, Security Module, Reports, Dashboards, Workbench, Data Loader, VS Code, SOSL, SOQL, Triggers, Validations, Formula, Workflow, Approvals, Email Templates</span>
+- <span style="color:#3498DB;">**Vlocity:** DataRaptors, Integration Procedures, Omniscript, Vlocity Cards, Flex Cards, Document template designer, document generation</span>
+- <span style="color:#3498DB;">**Industries CPQ:** Enterprise Product Catalog (EPC), CPQ, Order Management, Orchestrations, Product Pricing, Vlocity Rules, Order Decomposition</span>
+- <span style="color:#3498DB;">**Salesforce Tools:** Workbench, Data Loader, VS Code, Vlocity Build Tool, IDX Workbench</span>
 - <span style="color:#3498DB;">**Databases:** PostgreSQL</span>
-- <span style="color:#3498DB;">**Languages:** Python and Apex</span>
-- <span style="color:#3498DB;">**Domain Mastery:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS</span>
+- <span style="color:#3498DB;">**Programming Languages:** Python and Apex</span>
+- <span style="color:#3498DB;">**Domain Experience:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS</span>
+- <span style="color:#3498DB;">**Other:** GIT version control, Jira for project management, Confluence</span>
 
 <!-- Work Experience Section -->
-## <span style="color:#2C3E50;">💼 Work Experience</span>
+<h2><span style="color:#3498DB;">💼 Work Experience</span></h2>
 
 ### <span style="color:#3498DB;">Consultant - Software Engineer Lead at Capgemini (Sept 2022 – Present)</span>
 
 - <span style="color:#3498DB;">🎯 Orchestrating a Vlocity developer team for Salesforce OmniStudio/Vlocity and CPQ modules.</span>
-- <span style="color:#3498DB;">🚀 Conducting technical demonstrations and engaging in solution discussions.</span>
+- <span style="color:#3498DB;">🚀 Conducting technical demonstrations, ensuring a strong connection between client needs and project outcomes.</span>
 - <span style="color:#3498DB;">📉 Leading Salesforce industries CPQ projects, reducing customer acquisition costs by 30%.</span>
 - <span style="color:#3498DB;">🔄 Streamlining customer onboarding processes, reducing training time by 70%.</span>
 
 <!-- Additional Work Experience Sections -->
 
 <!-- Certifications Section -->
-## <span style="color:#2C3E50;">🎓 Certifications</span>
+<h2><span style="color:#3498DB;">🎓 Certifications</span></h2>
 
 - <span style="color:#3498DB;">Salesforce Certified OmniStudio Developer 🧙</span>
 - <span style="color:#3498DB;">Salesforce Certified Platform Developer 1 🎓</span>
 
 <!-- Education Section -->
-## <span style="color:#2C3E50;">🏫 Education</span>
+<h2><span style="color:#3498DB;">🏫 Education</span></h2>
 
 **Bachelor of Technology — Computer Science Engineering**  
 *Maharshi Dayanand University, Rohtak, Haryana, India*
