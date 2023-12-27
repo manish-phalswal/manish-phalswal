@@ -81,3 +81,4 @@ Results-driven Salesforce.com (SFDC) and Vlocity developer with over 5 years of 
 
 <!-- Visitor Counter Badge -->
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=manish-phalswal.353990664)
+![Visitors](https://shields.io/badge/dynamic/json?color=blue&label=Visitors&query=%24.value&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fmanish-phalswal%2F353990664%2Fvisits)
