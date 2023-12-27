@@ -1,9 +1,6 @@
 <h1 align="center">
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
-<!-- Header Section -->
-<h1 align="center"><span style="color:#3498DB;">Manish Kumar</span></h1>
-
 <!-- Contact Section -->
 <h2><span style="color:#3498DB;">📞 Contact</span></h2>
 
@@ -14,7 +11,25 @@
 <!-- Professional Summary Section -->
 <h2><span style="color:#3498DB;">💼 Professional Summary</span></h2>
 
-Experienced Salesforce.com (SFDC) and Vlocity developer with a passion for innovation and problem-solving. Over 5 years in the IT industry, specializing in Industry CPQ, Vlocity modules, and Salesforce customization.
+Results-driven Salesforce.com (SFDC) and Vlocity developer with over 5 years of hands-on experience, specializing in Industry CPQ, Vlocity modules, and Salesforce customization. Recognized for driving successful project outcomes and exceeding client expectations.
+
+🚀 Proven track record in delivering innovative solutions, optimizing processes, and enhancing user experiences within the Salesforce ecosystem.
+
+🌐 Extensive expertise in Industry CPQ, including Enterprise Product Catalog (EPC), Order Management, Orchestrations, Product Pricing, Vlocity Rules, and Order Decomposition.
+
+🎯 Proficient in Vlocity tools such as Omni Scripts, Dataraptors, Integration Procedure, Cards, and Flexcard. Strong insights into Health Domain requirements.
+
+🔧 Technical prowess extends to Salesforce customization, data integration/migration using ETL tools, Apex development, and building robust CRM solutions.
+
+🔄 Agile and adaptable, successfully implementing projects under Agile Development Environment and Test-Driven Developments.
+
+🏆 Accomplished in leading teams and fostering collaborative environments, ensuring seamless client interactions and solution discussions.
+
+💡 Expert in utilizing Salesforce.com Sandbox Deployments and employing Vlocity Build Tool, Change-sets, and IDX Workbench for efficient deployments.
+
+⚙️ Additional skills encompass GIT version control, Jira for project management, Confluence, and working with databases like PostgreSQL.
+
+<!-- Feel free to customize further based on your specific achievements and experiences. -->
 
 <!-- Technical Skills Section -->
 <h2><span style="color:#3498DB;">🔧 Technical Skills</span></h2>
