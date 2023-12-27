@@ -1,7 +1,7 @@
 <h1 align="center">
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
-# Manish Kumar
+# 👨‍💻 Manish Kumar - Innovator in the Digital Realm 🚀
 
 <p align="center">
   <img src="https://your-image-url.com/your-image.png" alt="Manish Kumar" width="200" />
@@ -13,57 +13,55 @@
 - **Email:** manishphalswal1995@gmail.com
 - **LinkedIn:** [linkedin.com/in/manish001](https://www.linkedin.com/in/manish001)
 
-## 🚀 Professional Summary
+## 🚀 Professional Wizardry
 
-Experienced IT professional with over 5 years of expertise, specializing in Salesforce.com (SFDC), Vlocity/Omnistudio, and Industry CPQ development. Passionate about Industry CPQ, Vlocity modules, and bringing innovation to projects.
+Greetings, tech wanderer! 🚀 I'm Manish Kumar, a seasoned tech sorcerer with a knack for Salesforce magic and Vlocity spells. Crafting enchanting solutions for over 5 years, my journey traverses the mystical realms of SFDC, Vlocity, and Industry CPQ. Join me on this spellbinding adventure!
 
-## 💻 Technical Skills
+## 💡 Creative Alchemy - Technical Skills
 
 - **Salesforce:** Admin, Developer, Apex, Security Module, Reports and Dashboards, Workbench, Data Loader, VS Code, SOSL, SOQL, Triggers, Validations, Formula, Workflow, Approvals, Email Templates
 - **Vlocity:** DataRaptors, Integration Procedures, Omniscript, Vlocity Cards, Flex Cards, Document template designer, document generation, etc.
 - **Industries CPQ:** Enterprise Product Catalog (EPC), CPQ, Order Management, Orchestrations, Product Pricing, Vlocity Rules, Order Decomposition, etc.
-- **Salesforce Industries and Clouds:** Telecommunication, Sales, Public Sector, Energy & Utility.
-- **Salesforce Tools:** Workbench, Data Loader, VS Code, Vlocity Build Tool, IDX Workbench.
 - **Databases:** PostgreSQL
-- **Programming Languages:** Python and Apex
-- **Domain Experience:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS
+- **Languages:** Python and Apex
+- **Domain Mastery:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS
 
-## 💼 Work Experience
+## 🌟 Professional Epic Saga
 
 ### Consultant - Software Engineer Lead at Capgemini (Sept 2022 – Present)
 
-- Managing a Vlocity developer team for Salesforce OmniStudio/Vlocity and CPQ modules.
-- Conducting technical demonstrations and engaging in solution discussions for effective client interactions.
-- Leading Salesforce industries CPQ projects, resulting in a 30% decrease in customer acquisition costs for a major European telecom company.
-- Streamlining customer onboarding processes, reducing overall training time by 70%.
+- Orchestrating a Vlocity developer team, bringing life to Salesforce OmniStudio/Vlocity and CPQ modules.
+- Unleashing technical demonstrations to captivate clients and crafting solutions that transcend expectations.
+- Leading Salesforce industries CPQ projects, diminishing customer acquisition costs by a mystical 30%.
+- Sculpting a project that streamlined customer onboarding, reducing training time by 70%.
 
 ### Associate Consultant - Senior Software Engineer at Ceptes Softwares (June 2021 – Sept 2022)
 
-- Managing a scrum team to deliver and develop the Vlocity Public Sector Cloud project.
-- Developed projects for the US State of Indiana on Vlocity Public Sector Cloud and CPQ, addressing issues related to child abuse and neglect.
+- Commanding a scrum team to manifest the Vlocity Public Sector Cloud project.
+- Crafting projects for the US State of Indiana on Vlocity Public Sector Cloud and CPQ, battling child abuse and neglect.
 
 ### Software Programmer at AIIMS, New Delhi (July 2019 – April 2021)
 
-- Team lead for the development and implementation of medical modules.
-- Spearheaded the development of EHR and HMS, enhancing doctors' efficiency in accessing patient history.
-- Designed and developed the Appointment Management System using Salesforce and Vlocity, facilitating doctor-patient connections through video-conferencing.
+- Leading the charge in the creation and deployment of medical modules.
+- Enchanting EHR and HMS development, empowering doctors with mystical access to patient histories.
+- Designing the Appointment Management System, connecting doctors and patients through magical video-conferencing.
 
 ### Functional Consultant at Eazy Business Solutions (Jan 2018 – July 2019)
 
-- Worked on ERP modules (Purchase, Store, Production, Sales, MRP, Quality Control, Job Work, Fixed Asset, RGP, Plant Maintenance, HRMS) and CRM modules for clients like MDH Spices.
-- Successfully implemented and customized ERP and DMS at major clients, including MDH Spices, Videotex International, Cars24, and OYO.
+- Channeling the forces of ERP and CRM modules for clients like MDH Spices.
+- Mastering the implementation of ERP and DMS, leaving an indelible mark on major clients.
 
-## 🏆 Certifications
+## 🏆 Certification Scrolls
 
-- Salesforce Certified OmniStudio Developer
-- Salesforce Certified Platform Developer 1
+- Salesforce Certified OmniStudio Developer 🧙
+- Salesforce Certified Platform Developer 1 🎓
 
 ## 🎓 Education
 
 **Bachelor of Technology — Computer Science Engineering**  
 *Maharshi Dayanand University, Rohtak, Haryana, India*
 
-
+May your code be bug-free and your tech adventures legendary! 🌌✨
 
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1io5UYTOKCzsz3z4oHm2oa7Go9ZWcrbmT/view?usp=drivesdk)
