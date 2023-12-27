@@ -1,63 +1,56 @@
 <h1 align="center">
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
-# 👨‍💻 Manish Kumar - Innovator in the Digital Realm 🚀
+<!-- Header Section -->
+# <span style="color:#2C3E50;">Manish Kumar</span> 🚀 - Innovator in the Digital Realm
 
-## 📞 Contact
+<!-- Contact Section -->
+## <span style="color:#3498DB;">📞 Contact</span>
 
-- **Phone:** +91-8059975933
-- **Email:** manishphalswal1995@gmail.com
-- **LinkedIn:** [linkedin.com/in/manish001](https://www.linkedin.com/in/manish001)
+- <span style="color:#3498DB;">**Phone:** +91-8059975933</span>
+- <span style="color:#3498DB;">**Email:** [manishphalswal1995@gmail.com](mailto:manishphalswal1995@gmail.com)</span>
+- <span style="color:#3498DB;">**LinkedIn:** [linkedin.com/in/manish001](https://www.linkedin.com/in/manish001)</span>
 
-## 🚀 Professional Wizardry
+<!-- Professional Summary Section -->
+## <span style="color:#2C3E50;">💼 Professional Summary</span>
 
-Greetings, tech wanderer! 🚀 I'm Manish Kumar, a seasoned tech sorcerer with a knack for Salesforce magic and Vlocity spells. Crafting enchanting solutions for over 5 years, my journey traverses the mystical realms of SFDC, Vlocity, and Industry CPQ. Join me on this spellbinding adventure!
+Greetings, tech enthusiasts! I'm Manish Kumar, a seasoned professional with over 5 years of expertise, specializing in Salesforce.com (SFDC), Vlocity/Omnistudio, and Industry CPQ development. Let's embark on a journey through the realms of innovation and technology.
 
-## 💡 Creative Alchemy - Technical Skills
+<!-- Technical Skills Section -->
+## <span style="color:#3498DB;">🔧 Technical Skills</span>
 
-- **Salesforce:** Admin, Developer, Apex, Security Module, Reports and Dashboards, Workbench, Data Loader, VS Code, SOSL, SOQL, Triggers, Validations, Formula, Workflow, Approvals, Email Templates
-- **Vlocity:** DataRaptors, Integration Procedures, Omniscript, Vlocity Cards, Flex Cards, Document template designer, document generation, etc.
-- **Industries CPQ:** Enterprise Product Catalog (EPC), CPQ, Order Management, Orchestrations, Product Pricing, Vlocity Rules, Order Decomposition, etc.
-- **Databases:** PostgreSQL
-- **Languages:** Python and Apex
-- **Domain Mastery:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS
+- <span style="color:#3498DB;">**Salesforce:** Admin, Developer, Apex, Security Module, Reports and Dashboards, Workbench, Data Loader, VS Code, SOSL, SOQL, Triggers, Validations, Formula, Workflow, Approvals, Email Templates</span>
+- <span style="color:#3498DB;">**Vlocity:** DataRaptors, Integration Procedures, Omniscript, Vlocity Cards, Flex Cards, Document template designer, document generation, etc.</span>
+- <span style="color:#3498DB;">**Industries CPQ:** Enterprise Product Catalog (EPC), CPQ, Order Management, Orchestrations, Product Pricing, Vlocity Rules, Order Decomposition, etc.</span>
+- <span style="color:#3498DB;">**Databases:** PostgreSQL</span>
+- <span style="color:#3498DB;">**Languages:** Python and Apex</span>
+- <span style="color:#3498DB;">**Domain Mastery:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS</span>
 
-## 🌟 Professional Epic Saga
+<!-- Work Experience Section -->
+## <span style="color:#2C3E50;">💼 Work Experience</span>
 
-### Consultant - Software Engineer Lead at Capgemini (Sept 2022 – Present)
+### <span style="color:#3498DB;">Consultant - Software Engineer Lead at Capgemini (Sept 2022 – Present)</span>
 
-- Orchestrating a Vlocity developer team, bringing life to Salesforce OmniStudio/Vlocity and CPQ modules.
-- Unleashing technical demonstrations to captivate clients and crafting solutions that transcend expectations.
-- Leading Salesforce industries CPQ projects, diminishing customer acquisition costs by a mystical 30%.
-- Sculpting a project that streamlined customer onboarding, reducing training time by 70%.
+- <span style="color:#3498DB;">🎯 Orchestrating a Vlocity developer team for Salesforce OmniStudio/Vlocity and CPQ modules.</span>
+- <span style="color:#3498DB;">🚀 Conducting technical demonstrations and engaging in solution discussions.</span>
+- <span style="color:#3498DB;">📉 Leading Salesforce industries CPQ projects, reducing customer acquisition costs by 30%.</span>
+- <span style="color:#3498DB;">🔄 Streamlining customer onboarding processes, reducing training time by 70%.</span>
 
-### Associate Consultant - Senior Software Engineer at Ceptes Softwares (June 2021 – Sept 2022)
+<!-- Additional Work Experience Sections -->
 
-- Commanding a scrum team to manifest the Vlocity Public Sector Cloud project.
-- Crafting projects for the US State of Indiana on Vlocity Public Sector Cloud and CPQ, battling child abuse and neglect.
+<!-- Certifications Section -->
+## <span style="color:#2C3E50;">🎓 Certifications</span>
 
-### Software Programmer at AIIMS, New Delhi (July 2019 – April 2021)
+- <span style="color:#3498DB;">Salesforce Certified OmniStudio Developer 🧙</span>
+- <span style="color:#3498DB;">Salesforce Certified Platform Developer 1 🎓</span>
 
-- Leading the charge in the creation and deployment of medical modules.
-- Enchanting EHR and HMS development, empowering doctors with mystical access to patient histories.
-- Designing the Appointment Management System, connecting doctors and patients through magical video-conferencing.
-
-### Functional Consultant at Eazy Business Solutions (Jan 2018 – July 2019)
-
-- Channeling the forces of ERP and CRM modules for clients like MDH Spices.
-- Mastering the implementation of ERP and DMS, leaving an indelible mark on major clients.
-
-## 🏆 Certification Scrolls
-
-- Salesforce Certified OmniStudio Developer 🧙
-- Salesforce Certified Platform Developer 1 🎓
-
-## 🎓 Education
+<!-- Education Section -->
+## <span style="color:#2C3E50;">🏫 Education</span>
 
 **Bachelor of Technology — Computer Science Engineering**  
 *Maharshi Dayanand University, Rohtak, Haryana, India*
 
-May your code be bug-free and your tech adventures legendary! 🌌✨
+<span style="color:#3498DB;">May your code be efficient and your innovations limitless! 🌟</span>
 
 ## Other Stuff
   - :octocat: [My Resume](https://drive.google.com/file/d/1io5UYTOKCzsz3z4oHm2oa7Go9ZWcrbmT/view?usp=drivesdk)
