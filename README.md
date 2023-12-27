@@ -2,6 +2,7 @@
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
 # 👨‍💻 Manish Kumar - Innovator in the Digital Realm 🚀
+
 ## 📞 Contact
 
 - **Phone:** +91-8059975933
