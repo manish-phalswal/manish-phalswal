@@ -2,11 +2,6 @@
   <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
 </h1>
 # 👨‍💻 Manish Kumar - Innovator in the Digital Realm 🚀
-
-<p align="center">
-  <img src="https://your-image-url.com/your-image.png" alt="Manish Kumar" width="200" />
-</p>
-
 ## 📞 Contact
 
 - **Phone:** +91-8059975933
