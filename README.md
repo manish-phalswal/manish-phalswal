@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/name.svg" />
+  <img src="https://github.com/manish-phalswal/manish-phalswal/blob/main/terminal.svg" />
 </h1>
 <!-- Contact Section -->
 <h2><span style="color:#3498DB;">📞 Contact</span></h2>
