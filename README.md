@@ -83,12 +83,6 @@ Over 7 years of experience in the IT industry, with more than 6 years specializi
 
 <span style="color:#3498DB;">May your code be efficient and your innovations limitless! 🌟</span>
 
-## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1io5UYTOKCzsz3z4oHm2oa7Go9ZWcrbmT/view?usp=drivesdk)
-
-## Contact
-- [![Linkedin Badge](https://img.shields.io/badge/-manish-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/manish001/)](https://www.linkedin.com/in/manish001/) 
-
 <p  align="center">
   <img src="https://visitor-badge.glitch.me/badge?page_id=manish-phalswal.353990664" alt="visitor badge"/>
 </p>
