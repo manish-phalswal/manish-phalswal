@@ -34,11 +34,18 @@
           white-space: nowrap;
           overflow: hidden;
           margin-top: 20px;
+          visibility: hidden; /* Hide the command line initially */
+          animation: showCommandLine 6s forwards; /* Show the command line after 6s */
         }
 
         .command-line span {
           color: #FF5733; /* Command prompt color */
           animation: blink 1s step-end infinite; /* Make the cursor blink continuously */
+        }
+
+        @keyframes showCommandLine {
+          0% { visibility: hidden; }
+          100% { visibility: visible; }
         }
       </style>
 
