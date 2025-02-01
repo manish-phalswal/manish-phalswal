@@ -1,0 +1,29 @@
+<svg fill="none" viewBox="0 0 800 100" width="800" height="100" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes typing {
+          from { width: 0; }
+          to { width: 100%; }
+        }
+        @keyframes blink {
+          50% { border-color: transparent; }
+        }
+
+        .terminal {
+          font-family: 'Courier New', monospace;
+          font-size: 2em;
+          color: #00FF00;
+          background-color: black;
+          padding: 10px;
+          display: inline-block;
+          white-space: nowrap;
+          overflow: hidden;
+          border-right: 5px solid #00FF00;
+          animation: typing 4s steps(40) 1s 1 normal both, blink 0.75s step-end infinite;
+        }
+      </style>
+      <div class="terminal">Hi, I'm Manish - A Developer, Coder, and Tech Enthusiast.</div>
+    </div>
+  </foreignObject>
+</svg>
