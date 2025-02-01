@@ -11,55 +11,68 @@
 <!-- Professional Summary Section -->
 <h2><span style="color:#3498DB;">💼 Professional Summary</span></h2>
 
-Results-driven Salesforce.com (SFDC) and Vlocity developer with over 5 years of hands-on experience, specializing in Industry CPQ, Vlocity modules, and Salesforce customization. Recognized for driving successful project outcomes and exceeding client expectations.
+Over 7 years of experience in the IT industry, with more than 6 years specializing as a Salesforce.com (SFDC), Vlocity/Omnistudio, and Industry CPQ developer/team lead.
 
-🚀 Proven track record in delivering innovative solutions, optimizing processes, and enhancing user experiences within the Salesforce ecosystem.
+🚀 Skilled in Industry CPQ, including Enterprise Product Catalog (EPC), Order Management, Orchestrations, Product Pricing, Vlocity Rules, and Order Decomposition.
 
-🌐 Extensive expertise in Industry CPQ, including Enterprise Product Catalog (EPC), Order Management, Orchestrations, Product Pricing, Vlocity Rules, and Order Decomposition.
+🌐 Proficient in Vlocity tools such as Omni Scripts, DataRaptors, Integration Procedures, Cards, Flexcards. Strong Health Domain insights.
 
-🎯 Proficient in Vlocity tools such as Omni Scripts, Dataraptors, Integration Procedure, Cards, and Flexcard. Strong insights into Health Domain requirements.
+🔧 Expertise in Salesforce customization, data integration, Apex development, and implementing CRM solutions, with experience in deploying to various environments using Vlocity Build Tool, Change-sets, and IDX Workbench.
 
-🔧 Technical prowess extends to Salesforce customization, data integration/migration using ETL tools, Apex development, and building robust CRM solutions.
+🏆 Led projects for industries like Telecom, Financial Services, Healthcare, and Nonprofit, successfully driving client engagement and improving operational efficiency.
 
-🔄 Agile and adaptable, successfully implementing projects under Agile Development Environment and Test-Driven Developments.
-
-🏆 Accomplished in leading teams and fostering collaborative environments, ensuring seamless client interactions and solution discussions.
-
-💡 Expert in utilizing Salesforce.com Sandbox Deployments and employing Vlocity Build Tool, Change-sets, and IDX Workbench for efficient deployments.
-
-⚙️ Additional skills encompass GIT version control, Jira for project management, Confluence, and working with databases like PostgreSQL.
-
-<!-- Feel free to customize further based on your specific achievements and experiences. -->
+⚙️ Adept in Agile Development, Test-Driven Development, GIT version control, Jira for project management, and Confluence for documentation.
 
 <!-- Technical Skills Section -->
 <h2><span style="color:#3498DB;">🔧 Technical Skills</span></h2>
 
 - <span style="color:#3498DB;">**Salesforce:** Admin, Developer, Apex, Security Module, Reports, Dashboards, Workbench, Data Loader, VS Code, SOSL, SOQL, Triggers, Validations, Formula, Workflow, Approvals, Email Templates</span>
-- <span style="color:#3498DB;">**Vlocity:** DataRaptors, Integration Procedures, Omniscript, Vlocity Cards, Flex Cards, Document template designer, document generation</span>
+- <span style="color:#3498DB;">**Vlocity:** DataRaptors, Integration Procedures, OmniScripts, Vlocity Cards, Flex Cards, Document Template Designer, Document Generation</span>
 - <span style="color:#3498DB;">**Industries CPQ:** Enterprise Product Catalog (EPC), CPQ, Order Management, Orchestrations, Product Pricing, Vlocity Rules, Order Decomposition</span>
 - <span style="color:#3498DB;">**Salesforce Tools:** Workbench, Data Loader, VS Code, Vlocity Build Tool, IDX Workbench</span>
 - <span style="color:#3498DB;">**Databases:** PostgreSQL</span>
-- <span style="color:#3498DB;">**Programming Languages:** Python and Apex</span>
+- <span style="color:#3498DB;">**Programming Languages:** Python, Apex</span>
 - <span style="color:#3498DB;">**Domain Experience:** Salesforce CRM, Industries CPQ, ERP, DMS, HMS</span>
-- <span style="color:#3498DB;">**Other:** GIT version control, Jira for project management, Confluence</span>
+- <span style="color:#3498DB;">**Other:** GIT version control, Jira, Confluence</span>
 
 <!-- Work Experience Section -->
 <h2><span style="color:#3498DB;">💼 Work Experience</span></h2>
 
-### <span style="color:#3498DB;">Consultant - Software Engineer Lead at Capgemini (Sept 2022 – Present)</span>
+### <span style="color:#3498DB;">Senior Consultant - Technical Team Lead at KPMG (March 2024 – Present)</span>
 
-- <span style="color:#3498DB;">🎯 Orchestrating a Vlocity developer team for Salesforce OmniStudio/Vlocity and CPQ modules.</span>
-- <span style="color:#3498DB;">🚀 Conducting technical demonstrations, ensuring a strong connection between client needs and project outcomes.</span>
-- <span style="color:#3498DB;">📉 Leading Salesforce industries CPQ projects, reducing customer acquisition costs by 30%.</span>
-- <span style="color:#3498DB;">🔄 Streamlining customer onboarding processes, reducing training time by 70%.</span>
+- 🎯 Led a team to deliver Salesforce Financial Services Cloud solutions, streamlining onboarding and loan processes, reducing onboarding time by 70%.
+- 🚀 Utilized OmniStudio to automate loan origination and compliance workflows, improving accuracy and operational efficiency.
+- 📉 Deployed Agentforce to enhance advisor productivity, boosting client satisfaction and operational effectiveness.
 
-<!-- Additional Work Experience Sections -->
+### <span style="color:#3498DB;">Consultant - Software Engineer Lead at Capgemini (Sept 2022 – March 2024)</span>
+
+- 🎯 Led Salesforce CPQ and Industries CPQ projects for clients in Telecom and Financial Services, reducing customer acquisition costs by 30%.
+- 🚀 Streamlined customer onboarding processes, cutting training time by 70% with OmniStudio-based guided journeys.
+
+### <span style="color:#3498DB;">Associate Consultant - Senior Software Engineer at Ceptes Softwares (June 2021 – Sept 2022)</span>
+
+- 🎯 Delivered Vlocity solutions for Nonprofit and Communications Cloud projects, driving social impact and operational excellence.
+- 🚀 Led a team to prevent child abuse and support at-risk children in Indiana with Vlocity solutions.
+
+### <span style="color:#3498DB;">Software Programmer at AIIMS (July 2019 – April 2021)</span>
+
+- 🎯 Spearheaded the development of Hospital Management Systems (HMS) and Electronic Health Records (EHR) for AIIMS, improving healthcare delivery.
+- 🚀 Designed and built systems for patient management, telemedicine, and e-prescriptions, enhancing patient care.
+
+### <span style="color:#3498DB;">Functional Consultant at Eazy Business Solutions (Jan 2018 – July 2019)</span>
+
+- 🎯 Led ERP, CRM, and DMS implementations for industry-leading clients such as MDH Spices, Cars24, and OYO.
+- 🚀 Optimized business processes across various functions, including Purchase, Sales, HRMS, and Customer Relationship Management.
 
 <!-- Certifications Section -->
 <h2><span style="color:#3498DB;">🎓 Certifications</span></h2>
 
 - <span style="color:#3498DB;">Salesforce Certified OmniStudio Developer 🧙</span>
+- <span style="color:#3498DB;">Salesforce Certified OmniStudio Consultant 🧑‍🏫</span>
 - <span style="color:#3498DB;">Salesforce Certified Platform Developer 1 🎓</span>
+- <span style="color:#3498DB;">Salesforce Certified AI Associate 🤖</span>
+- <span style="color:#3498DB;">Salesforce Certified AI Specialist 🧠</span>
+- <span style="color:#3498DB;">Financial Service Cloud Accredited Professional 💼</span>
 
 <!-- Education Section -->
 <h2><span style="color:#3498DB;">🏫 Education</span></h2>
