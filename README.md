@@ -81,8 +81,6 @@ Over 7 years of experience in the IT industry, with more than 6 years specializi
 **Bachelor of Technology — Computer Science Engineering**  
 *Maharshi Dayanand University, Rohtak, Haryana, India*
 
-<span style="color:#3498DB;">May your code be efficient and your innovations limitless! 🌟</span>
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=manish-phalswal.manish-phalswal" alt="visitor badge"/>
 </p>
