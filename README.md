@@ -8,6 +8,7 @@
 - <span style="color:#3498DB;">**Email:** [manishphalswal1995@gmail.com](mailto:manishphalswal1995@gmail.com)</span>
 - <span style="color:#3498DB;">**LinkedIn:** [linkedin.com/in/manish001](https://www.linkedin.com/in/manish001)</span>
 - <span style="color:#3498DB;">**Resume:** [![Resume Badge](https://img.shields.io/badge/Resume-PDF-blue)](https://docs.google.com/document/d/10wEtsX-oBFHrXDUo1vc1ROPcD1AyD6Yo9s8hUg7x-N0/export?format=pdf)</span>
+- <span style="color:#3498DB;">**NPM Package:** [`npx manish_kumar`](https://www.npmjs.com/package/manish_kumar)</span>
 
 <!-- Professional Summary Section -->
 <h2><span style="color:#3498DB;">💼 Professional Summary</span></h2>
