@@ -12,21 +12,21 @@
 
         .terminal {
           font-family: 'Courier New', monospace;
-          font-size: 2.5em;
+          font-size: 2.5em; /* Adjust font size for the main terminal text */
           color: #00FF00;
           background-color: black;
           padding: 20px;
           display: inline-block;
           white-space: nowrap;
           overflow: hidden;
-          border-right: 4px solid #00FF00;
+          border-right: 4px solid #00FF00; /* Blinking cursor for the typing text */
           animation: typing 6s steps(45) 1s 1 normal both, blink 0.75s step-end infinite;
           max-width: 100%;
         }
 
         .command-line {
           font-family: 'Courier New', monospace;
-          font-size: 1.5em;
+          font-size: 1.5em; /* Adjust font size for the command line prompt */
           color: #00FF00;
           background-color: black;
           padding: 10px;
@@ -34,21 +34,22 @@
           white-space: nowrap;
           overflow: hidden;
           margin-top: 20px;
-          border-right: 4px solid #00FF00;
-          animation: typing 4s steps(20) 1s 1 normal both, blink 0.75s step-end infinite;
-          max-width: 80%;
         }
 
         .command-line span {
           color: #FF5733; /* Command prompt color */
+          animation: blink 1s step-end infinite; /* Make the cursor blink continuously */
         }
       </style>
 
+      <!-- Main terminal message with typing effect -->
       <div class="terminal">
-        Hi, I am Manish. Lets code!
+        Hi, I am Manish. Let's code!
       </div>
+      
+      <!-- Command line prompt with continuous blinking cursor -->
       <div class="command-line">
-        <span>~$</span> <span>manish@dev:~$</span> git init
+        <span>~$</span> <span>manish@dev:~$</span>
       </div>
     </div>
   </foreignObject>
