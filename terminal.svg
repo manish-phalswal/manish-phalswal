@@ -9,23 +9,6 @@
         @keyframes blink {
           50% { border-color: transparent; }
         }
-        @keyframes typingEffect {
-          0% {
-            content: "";
-          }
-          25% {
-            content: "Hi, I am Manish";
-          }
-          50% {
-            content: "Hi, I am Manish. A Developer.";
-          }
-          75% {
-            content: "Hi, I am Manish. A Developer. I love coding.";
-          }
-          100% {
-            content: "Hi, I am Manish. A Developer. I love coding. Let's build something amazing!";
-          }
-        }
 
         .terminal {
           font-family: 'Courier New', monospace;
@@ -37,8 +20,8 @@
           white-space: nowrap;
           overflow: hidden;
           border-right: 4px solid #00FF00;
-          animation: typing 5s steps(40) 1s 1 normal both, blink 0.75s step-end infinite, typingEffect 6s steps(40) forwards;
-          max-width: 80%;
+          animation: typing 6s steps(45) 1s 1 normal both, blink 0.75s step-end infinite;
+          max-width: 100%;
         }
 
         .command-line {
@@ -61,11 +44,12 @@
         }
       </style>
 
-      <div class="terminal">Hi, I am Manish. A Developer, Tech Enthusiast. Let's build something amazing!</div>
+      <div class="terminal">
+        Hi, I am Manish. Lets code!
+      </div>
       <div class="command-line">
         <span>~$</span> <span>manish@dev:~$</span> git init
       </div>
     </div>
-    
   </foreignObject>
 </svg>
