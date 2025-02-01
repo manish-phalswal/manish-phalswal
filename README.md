@@ -83,6 +83,6 @@ Over 7 years of experience in the IT industry, with more than 6 years specializi
 
 <span style="color:#3498DB;">May your code be efficient and your innovations limitless! 🌟</span>
 
-<p  align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=manish-phalswal.353990664" alt="visitor badge"/>
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=manish-phalswal.manish-phalswal" alt="visitor badge"/>
 </p>
