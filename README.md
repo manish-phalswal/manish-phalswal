@@ -74,6 +74,7 @@ Over 7 years of experience in the IT industry, with more than 6 years specializi
 - <span style="color:#3498DB;">Salesforce Certified Platform Developer 1 🎓</span>
 - <span style="color:#3498DB;">Salesforce Certified AI Associate 🤖</span>
 - <span style="color:#3498DB;">Salesforce Certified AI Specialist 🧠</span>
+- <span style="color:#3498DB;">Salesforce Certified Data Cloud Consultant 💼</span>
 - <span style="color:#3498DB;">Financial Service Cloud Accredited Professional 💼</span>
 
 <!-- Education Section -->
